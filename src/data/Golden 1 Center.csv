@@ -1,0 +1,11 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Sacramento Kings vs. Phoenix Suns,2024-04-12,19:30:00,Golden 1 Center,40.0,545.0,Sacramento Kings,Phoenix Suns
+Sacramento Kings vs. New York Knicks,2024-03-16,19:00:00,Golden 1 Center,40.0,415.0,Sacramento Kings,New York Knicks
+Sacramento Kings vs. Philadelphia 76ers,2024-03-25,19:00:00,Golden 1 Center,33.0,356.0,Sacramento Kings,Philadelphia 76ers
+Sacramento Kings vs. Dallas Mavericks,2024-03-29,19:00:00,Golden 1 Center,40.0,545.0,Sacramento Kings,Dallas Mavericks
+Sacramento Kings vs. LA Clippers,2024-04-02,19:00:00,Golden 1 Center,34.0,300.0,Sacramento Kings,Los Angeles Clippers
+Sacramento Kings vs. Dallas Mavericks,2024-03-26,19:00:00,Golden 1 Center,40.0,415.0,Sacramento Kings,Dallas Mavericks
+Sacramento Kings vs. Memphis Grizzlies,2024-03-18,19:00:00,Golden 1 Center,26.0,300.0,Sacramento Kings,Memphis Grizzlies
+Sacramento Kings vs. Portland Trail Blazers,2024-04-14,12:30:00,Golden 1 Center,40.0,356.0,Sacramento Kings,Portland Trail Blazers
+Sacramento Kings vs. Utah Jazz,2024-03-31,18:00:00,Golden 1 Center,35.0,300.0,Sacramento Kings,Utah Jazz
+Sacramento Kings vs. New Orleans Pelicans,2024-04-11,19:00:00,Golden 1 Center,31.0,300.0,Sacramento Kings,New Orleans Pelicans

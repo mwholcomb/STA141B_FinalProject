@@ -1,0 +1,15 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Brooklyn Nets v. Los Angeles Lakers,2024-03-31,18:00:00,Barclays Center,219.0,7600.0,Brooklyn Nets,Los Angeles Lakers
+Brooklyn Nets v. Toronto Raptors (Fan Appreciation),2024-04-10,19:30:00,Barclays Center,33.0,4550.0,Brooklyn Nets,Toronto Raptors
+Brooklyn Nets v. Chicago Bulls (Friday Night Live),2024-03-29,19:30:00,Barclays Center,75.0,5950.0,Brooklyn Nets,Chicago Bulls
+Brooklyn Nets v. Detroit Pistons (Nets Unite: Pride),2024-04-06,19:00:00,Barclays Center,29.0,4250.0,Brooklyn Nets,Detroit Pistons
+Brooklyn Nets v. New Orleans Pelicans,2024-03-19,19:30:00,Barclays Center,41.0,4950.0,Brooklyn Nets,New Orleans Pelicans
+Brooklyn Nets v. Indiana Pacers (Best of Brooklyn Giveaway),2024-04-03,19:30:00,Barclays Center,52.0,4550.0,Brooklyn Nets,Indiana Pacers
+Brooklyn Nets v. Sacramento Kings,2024-04-07,19:30:00,Barclays Center,45.0,5450.0,Brooklyn Nets,Sacramento Kings
+Brooklyn Nets vs. New Orleans Pelicans (Suite),2024-03-19,19:30:00,Barclays Center,,,Brooklyn Nets,New Orleans Pelicans
+Brooklyn Nets vs. Chicago Bulls (Suite),2024-03-29,19:30:00,Barclays Center,,,Brooklyn Nets,Chicago Bulls
+Brooklyn Nets vs. Los Angeles Lakers (Suite),2024-03-31,18:00:00,Barclays Center,,,Brooklyn Nets,Los Angeles Lakers
+Brooklyn Nets vs. Indiana Pacers (Suite),2024-04-03,19:30:00,Barclays Center,,,Brooklyn Nets,Indiana Pacers
+Brooklyn Nets vs. Detroit Pistons (Suite),2024-04-06,19:00:00,Barclays Center,,,Brooklyn Nets,Detroit Pistons
+Brooklyn Nets vs. Sacramento Kings (Suite),2024-04-07,19:30:00,Barclays Center,,,Brooklyn Nets,Sacramento Kings
+Brooklyn Nets vs. Toronto Raptors (Suite),2024-04-10,19:30:00,Barclays Center,,,Brooklyn Nets,Toronto Raptors

@@ -1,0 +1,9 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Denver Nuggets vs. Minnesota Timberwolves,2024-03-29,19:00:00,Ball Arena,95.0,5280.0,Denver Nuggets,Minnesota Timberwolves
+Denver Nuggets vs. New York Knicks,2024-03-21,19:00:00,Ball Arena,75.0,4060.0,Denver Nuggets,New York Knicks
+Denver Nuggets vs. Phoenix Suns,2024-03-27,20:00:00,Ball Arena,42.0,6855.0,Denver Nuggets,Phoenix Suns
+Denver Nuggets vs. Cleveland Cavaliers,2024-03-31,13:30:00,Ball Arena,62.0,5280.0,Denver Nuggets,Cleveland Cavaliers
+Denver Nuggets vs. San Antonio Spurs,2024-04-02,19:00:00,Ball Arena,62.0,2965.0,Denver Nuggets,San Antonio Spurs
+Denver Nuggets vs. Memphis Grizzlies,2024-03-25,19:00:00,Ball Arena,38.0,5280.0,Denver Nuggets,Memphis Grizzlies
+Denver Nuggets vs. Atlanta Hawks,2024-04-06,19:00:00,Ball Arena,59.0,5280.0,Denver Nuggets,Atlanta Hawks
+Denver Nuggets vs. Minnesota Timberwolves,2024-04-10,20:00:00,Ball Arena,45.0,2965.0,Denver Nuggets,Minnesota Timberwolves

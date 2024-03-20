@@ -1,0 +1,9 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Chicago Bulls vs. Boston Celtics,2024-03-23,19:00:00,United Center,79.0,1450.0,Chicago Bulls,Boston Celtics
+Chicago Bulls vs. Washington Wizards,2024-03-16,19:00:00,United Center,52.0,775.0,Chicago Bulls,Washington Wizards
+Chicago Bulls vs. New York Knicks,2024-04-05,19:00:00,United Center,85.0,749.0,Chicago Bulls,New York Knicks
+Chicago Bulls vs. Indiana Pacers,2024-03-27,19:00:00,United Center,59.0,499.0,Chicago Bulls,Indiana Pacers
+Chicago Bulls vs. Portland Trail Blazers,2024-03-18,19:00:00,United Center,25.0,499.0,Chicago Bulls,Portland Trail Blazers
+Chicago Bulls vs. Washington Wizards,2024-03-25,19:00:00,United Center,35.0,499.0,Chicago Bulls,Washington Wizards
+Chicago Bulls vs. New York Knicks,2024-04-09,19:00:00,United Center,45.0,599.0,Chicago Bulls,New York Knicks
+Chicago Bulls vs. Atlanta Hawks,2024-04-01,19:00:00,United Center,29.0,499.0,Chicago Bulls,Atlanta Hawks

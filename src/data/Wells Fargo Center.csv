@@ -1,0 +1,8 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Philadelphia 76ers vs. Charlotte Hornets,2024-03-16,19:00:00,Wells Fargo Center,35.0,900.0,Philadelphia 76ers,Charlotte Hornets
+Philadelphia 76ers vs. Miami Heat,2024-03-18,19:30:00,Wells Fargo Center,33.0,466.0,Philadelphia 76ers,Miami Heat
+Philadelphia 76ers vs. Brooklyn Nets,2024-04-14,13:00:00,Wells Fargo Center,63.0,536.0,Philadelphia 76ers,Brooklyn Nets
+Philadelphia 76ers vs. Oklahoma City Thunder,2024-04-02,19:30:00,Wells Fargo Center,55.0,950.0,Philadelphia 76ers,Oklahoma City Thunder
+Philadelphia 76ers vs. Orlando Magic,2024-04-12,19:00:00,Wells Fargo Center,42.0,536.0,Philadelphia 76ers,Orlando Magic
+Philadelphia 76ers vs. LA Clippers,2024-03-27,19:30:00,Wells Fargo Center,95.0,1600.0,Philadelphia 76ers,Los Angeles Clippers
+Philadelphia 76ers vs. Detroit Pistons,2024-04-09,19:00:00,Wells Fargo Center,30.0,400.0,Philadelphia 76ers,Detroit Pistons

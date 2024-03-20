@@ -1,0 +1,11 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Orlando Magic vs Toronto Raptors,2024-03-17,18:00:00,Kia Center,22.0,1366.5,Orlando Magic,Toronto Raptors
+Orlando Magic vs Los Angeles Clippers,2024-03-29,19:00:00,Kia Center,60.0,2216.5,Orlando Magic,Los Angeles Clippers
+Orlando Magic vs Chicago Bulls,2024-04-07,18:00:00,Kia Center,80.0,2216.5,Orlando Magic,Chicago Bulls
+Orlando Magic vs Golden State Warriors,2024-03-27,19:00:00,Kia Center,134.5,5461.5,Orlando Magic,Golden State Warriors
+Orlando Magic vs Sacramento Kings,2024-03-23,19:00:00,Kia Center,41.0,2216.5,Orlando Magic,Sacramento Kings
+Orlando Magic vs Memphis Grizzlies,2024-03-30,19:00:00,Kia Center,44.0,2216.5,Orlando Magic,Memphis Grizzlies
+Orlando Magic vs Milwaukee Bucks,2024-04-14,13:00:00,Kia Center,71.0,3061.5,Orlando Magic,Milwaukee Bucks
+Orlando Magic vs Charlotte Hornets,2024-03-19,19:00:00,Kia Center,18.0,1366.5,Orlando Magic,Charlotte Hornets
+Orlando Magic vs Portland Trail Blazers,2024-04-01,19:00:00,Kia Center,18.0,1366.5,Orlando Magic,Portland Trail Blazers
+Orlando Magic vs New Orleans Pelicans,2024-03-21,19:00:00,Kia Center,27.0,2216.5,Orlando Magic,New Orleans Pelicans

@@ -1,0 +1,9 @@
+name,date,time,venue,minPrice,maxPrice,home,away
+Boston Celtics vs. Detroit Pistons,2024-03-18,19:30:00,TD Garden,97.5,1690.5,Boston Celtics,Detroit Pistons
+Boston Celtics vs. Milwaukee Bucks,2024-03-20,19:30:00,TD Garden,170.5,1925.5,Boston Celtics,Milwaukee Bucks
+Boston Celtics vs. Oklahoma City Thunder,2024-04-03,19:30:00,TD Garden,107.5,1835.5,Boston Celtics,Oklahoma City Thunder
+Boston Celtics vs. Washington Wizards,2024-04-14,13:00:00,TD Garden,128.5,1835.5,Boston Celtics,Washington Wizards
+Boston Celtics vs. Sacramento Kings,2024-04-05,19:30:00,TD Garden,128.5,1920.5,Boston Celtics,Sacramento Kings
+Boston Celtics vs. Portland Trail Blazers,2024-04-07,18:00:00,TD Garden,110.5,1780.5,Boston Celtics,Portland Trail Blazers
+Boston Celtics vs. New York Knicks,2024-04-11,19:30:00,TD Garden,119.5,1835.5,Boston Celtics,New York Knicks
+Boston Celtics vs. Charlotte Hornets,2024-04-12,19:30:00,TD Garden,113.5,1835.5,Boston Celtics,Charlotte Hornets
